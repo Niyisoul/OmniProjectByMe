@@ -13,8 +13,8 @@ body{
     color: black;
 }
 
-/* #container{
-    /* display: border-box; 
+ #container{
+    display: flex-box; 
 }
 
 #container .navBar{
@@ -106,11 +106,4 @@ footer{
     text-decoration: wavy;
 }
 
-@media screen {max-width: 768px;
-
-
-
-
-
-}
-     */
+     
