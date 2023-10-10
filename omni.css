@@ -1,0 +1,116 @@
+body{
+    margin: ;
+    padding: ;
+    background-color: #fff;
+    display: flex;
+    flex-wrap: nowrap;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 50px;
+    font-style: italic;
+    font-weight: 100;
+    text-align: center;
+    cursor: scroll;
+    color: black;
+}
+
+/* #container{
+    /* display: border-box; 
+}
+
+#container .navBar{
+    display: flex;
+    text-align: center;
+}
+
+#container .navBar .omniText{
+    font-size: 40px;
+    font-family: 'Courier New', Courier, monospace;
+    color: grey;
+}
+
+#container .Picture img{
+    width: 90px;
+    height: 90px;
+    border: 2px solid #fff;
+    border-radius: 15px;
+}
+
+#container .session h1{
+    font-weight: 100;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 30px;
+    color: #011111; 
+}
+
+#container .session .paragraph1{
+    font-size: 20px;
+    color: mediumslateblue;
+}
+
+#container .session .link{
+    color: palevioletred;
+    text-decoration: none;
+}
+
+#container .session .press{
+    background-color: tomato;
+    border: 2px solid;
+    border-width: 80px;
+    border-radius: 10px;
+    text-align: center;
+    text-decoration: none;
+    font-weight: bold;
+    color: #fff;
+    cursor: pointer;
+}
+
+#container .session .press:hover{
+    cursor: grab;
+    color: cyan;
+}
+
+#container .tabularForm{
+    background-color: #fff;
+    flex-wrap: wrap;
+    flex-flow: row;
+    flex-direction: row;
+    border: 2px solid;
+    text-align: center;
+    cursor: move;
+    color: black;
+}
+
+#container .tabularForm input{
+    color: darkgray;
+    font-style: italic;
+}
+
+#container .middleSection h4{
+    color: palevioletred;
+}
+
+#container .middleSection h3{
+    background-color: darkgray;
+    font-weight: bold;
+    font-size: 15px;
+    color: grey;
+    text-align: center;
+}
+
+#container .middleSection p{
+    color: grey;
+    text-align: center;
+}
+footer{
+    color: aqua;
+    text-decoration: wavy;
+}
+
+@media screen {max-width: 768px;
+
+
+
+
+
+}
+     */
